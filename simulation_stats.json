@@ -1,0 +1,7 @@
+{
+    "total_transmissions": 3,
+    "successful_transmissions": 1,
+    "average_latency": 0.0,
+    "loss_rate": 0.6666666666666666,
+    "current_error_rate": 0.5
+}
